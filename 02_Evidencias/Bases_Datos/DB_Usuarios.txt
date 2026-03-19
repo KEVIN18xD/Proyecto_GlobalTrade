@@ -1,0 +1,5 @@
+User	Host
+dvwa	localhost
+mariadb.sys	localhost
+mysql	localhost
+root	localhost

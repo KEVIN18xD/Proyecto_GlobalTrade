@@ -1,0 +1,14 @@
+Plan de Auditoría – GlobalTrade Manufacturing
+
+Alcance:
+- Base de datos ERP
+- Aplicación ERP
+
+Herramientas:
+- SQLMap
+- OWASP ZAP
+
+Objetivos:
+- Identificar vulnerabilidades
+- Evaluar configuraciones
+- Analizar riesgos de seguridad

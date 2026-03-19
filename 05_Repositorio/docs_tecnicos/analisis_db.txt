@@ -1,0 +1,11 @@
+Auditoría de Base de Datos – GlobalTrade
+
+Se identificaron los siguientes puntos:
+
+- Uso de credenciales por defecto
+- Privilegios elevados en usuarios
+- Falta de automatización de respaldos
+- Posible vulnerabilidad SQL Injection
+
+Impacto:
+Compromiso de confidencialidad e integridad de datos críticos del ERP.

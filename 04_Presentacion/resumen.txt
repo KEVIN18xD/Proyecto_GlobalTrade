@@ -1,0 +1,4 @@
+Resumen Ejecutivo – GlobalTrade
+
+Se identificaron vulnerabilidades críticas en la base de datos y aplicación ERP,
+principalmente SQL Injection y mala gestión de accesos.

